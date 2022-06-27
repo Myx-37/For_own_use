@@ -1,0 +1,17 @@
+# NAME: SoftwareCN
+# AUTHOR: Myx-37
+# REPO: https://github.com/Myx-37
+# UPDATED: 2022-6-27
+# Description: 常用CN软件的分流, 易走final
+// Genshin
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,yuanshen.com
+// Luckincoffee
+DOMAIN-KEYWORD,luckincoffee
+DOMAIN-SUFFIX,lkcoffee.com
+// 今日校园
+DOMAIN-SUFFIX,cpdaily.com
+DOMAIN-SUFFIX,campusphere.com
+DOMAIN-SUFFIX,campushoy.com
+// 校园集市
+DOMAIN-SUFFIX,zanao.com
