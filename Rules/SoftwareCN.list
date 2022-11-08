@@ -33,3 +33,5 @@ DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,heytea
 // 政务服务平台
 DOMAIN-SUFFIX,gov.cn
+// 学信网
+DOMAIN-SUFFIX,chsi.com.cn
