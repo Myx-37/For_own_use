@@ -31,3 +31,5 @@ DOMAIN-KEYWORD,jjwxc
 DOMAIN-KEYWORD,weixin
 // 喜茶小程序
 DOMAIN-KEYWORD,heytea
+// 政务服务平台
+DOMAIN-SUFFIX,gov.cn
