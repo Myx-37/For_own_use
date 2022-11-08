@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,gov.cn
 // 学信网
 DOMAIN-SUFFIX,chsi.com.cn
 DOMAIN-SUFFIX,chei.com.cn
+// 京东
+DOMAIN-SUFFIX,jd.com
