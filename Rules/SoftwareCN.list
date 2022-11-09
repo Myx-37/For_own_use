@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,chei.com.cn
 // 京东
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jdpay.com
+// 健康码
+DOMAIN-KEYWORD,jiankangma
