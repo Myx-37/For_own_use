@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,jkcyzn.cn
 DOMAIN-SUFFIX,xhscdn.com
 // 美团/大众点评
 DOMAIN-KEYWORD,meituan
+// Mac软件下载
+DOMAIN-SUFFIX,macwk.cn
