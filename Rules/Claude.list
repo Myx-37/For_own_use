@@ -1,0 +1,30 @@
+# NAME: Claude
+# AUTHOR: Myx-37
+# REPO: https://github.com/Myx-37
+# UPDATED: 2026-4-9
+# Description: Claude分流规则
+# Source: https://ip.net.coffee/claude/site.html
+# ===== Claude 专用规则 =====
+# 核心域名
+DOMAIN-SUFFIX,anthropic.com //Anthropic主站
+DOMAIN-SUFFIX,claude.ai //Claude网页版入口
+DOMAIN,clau.de //Claude 短域名（重定向）
+DOMAIN-SUFFIX,claude.com //备用域名
+DOMAIN-SUFFIX,claudeusercontent.com //Claude 用户内容/附件
+DOMAIN-SUFFIX,claudemcpclient.com //Claude MCP 客户端通信
+# CDN 和基础设施
+DOMAIN-SUFFIX,cdn.anthropic.com //Anthropic CDN 资源
+DOMAIN-SUFFIX,anthropic.com.cdn.cloudflare.net //Cloudflare CDN 节点
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net //BunnyCDN 静态资源
+# 认证服务
+DOMAIN-SUFFIX,anthropic.auth0.com //OAuth 登录认证
+DOMAIN-SUFFIX,anthropic-com.ghost.io //博客/CMS 内容
+# 监控和数据上报
+DOMAIN-SUFFIX,sentry.io //错误监控上报
+DOMAIN-SUFFIX,statsigapi.net //功能开关/AB 测试
+DOMAIN-KEYWORD,datadog //性能监控（APM）
+DOMAIN-KEYWORD,sentry //错误追踪（通配）
+DOMAIN-KEYWORD,sift //反欺诈检测
+# 兜底
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,ntp.org
